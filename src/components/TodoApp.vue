@@ -9,7 +9,7 @@
   </div>
   
  <!--Task table--> 
- <table class="table table-bordered mt-5 background-color:blue">
+ <table class="table table-bordered mt-5">
   <thead>
     <tr>
       <th scope="col">Task</th>
@@ -118,8 +118,6 @@ export default {
 .finished{
   text-decoration: line-through;
 }
-.back{
-  background-color: blueviolet;
-}
+
 
 </style>
